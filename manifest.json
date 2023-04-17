@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Design Mode",
+  "version": "1.0",
+  "description": "This extension logs a test message to the console.",
+  "permissions": [
+    "scripting",
+    "activeTab"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
